@@ -1,0 +1,18 @@
+th{
+    border: solid black 1px;
+    margin: 0px;
+    width: 10%;
+}
+td{
+    border: solid black 1px;
+    margin: 0px;
+    text-align: center;
+}
+table{
+    margin-left: 26%;
+    border-spacing: 0px;
+    margin-bottom: 1%;
+}
+body{
+    text-align: center;
+}
